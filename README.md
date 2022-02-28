@@ -13,7 +13,7 @@ Computer Science with 5 years of experience as full stack developer.
   Experience in Selenium, Scrappy and beautiful soap.
   Experience with payment gateways like stripe, wechat, AmericanExpress..
   Worked in Agile Development and Scrum Model throughout the career.
-- 🌱 I’m currently learning AWS in depth
+- 🌱 I’m currently learning AWS, Django, React, NextJs, Angular11 in depth
 - 📫 You can reach me via email `amad.aud@gmail.com` or at phone `+92 333 4949086`
 
 
