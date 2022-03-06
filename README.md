@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackgeeks
-- 👀 A hardworking and motivated professional having Bachelor’s degree (4 years) in
+- 👀 A hardworking and motivated professional having Bachelor’s degree (5 years) in
 Computer Science with 5 years of experience as full stack developer.
   Expertise in analysis, design and development of software applications and general problem solving.
   Experience with Javascript frameworks like Angular 10, ReactJS, NextJS.
